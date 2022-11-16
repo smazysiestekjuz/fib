@@ -16,5 +16,8 @@ int main()
     o1 = abs(x-R);
     o2 = abs(x-D);
 
+    if (o1<o2) cout<<"Wygral Rick!"; else if(o2<o1) cout<<"Wygral Daryl!"; else cout<<"Remis!";
+
+
     return 0;
 }
