@@ -1,1 +1,1 @@
-Mathematical functions 
+Mathematical functions the absolute value with lib 
