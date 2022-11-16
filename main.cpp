@@ -10,7 +10,8 @@ int main()
     cout << "(1947-2014) Ile razy LA Lakers wystapili w finale NBA?"<<endl;
     cout<<"Rick: ";
     cin>>R;
-
+    cout<<"Daryl: ";
+    cin>>D;
 
 
     return 0;
