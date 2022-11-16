@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int x, R, D, o1, o2;
+int x=31, R, D, o1, o2;
 
 int main()
 {
