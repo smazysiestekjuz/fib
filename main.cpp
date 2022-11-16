@@ -13,6 +13,8 @@ int main()
     cout<<"Daryl: ";
     cin>>D;
 
+    o1 = abs(x-R);
+    o2 = abs(x-D);
 
     return 0;
 }
